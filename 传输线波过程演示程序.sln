@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "传输线波过程演示程序", "传输线波过程演示程序\传输线波过程演示程序.csproj", "{CCDB481A-2FE5-4697-B9BC-F92DA1857864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDB481A-2FE5-4697-B9BC-F92DA1857864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDB481A-2FE5-4697-B9BC-F92DA1857864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDB481A-2FE5-4697-B9BC-F92DA1857864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDB481A-2FE5-4697-B9BC-F92DA1857864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0748E07E-6F9D-42D0-AB0F-17C68B46BBAE}
+	EndGlobalSection
+EndGlobal
